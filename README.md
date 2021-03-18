@@ -38,13 +38,10 @@
   <img align="left" alt="Simona's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonacossai&show_icons=true&hide_border=true" />
 
 <br />
-<br />
 
-<details>
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Simona's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonacossai" />
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/simonacossai/

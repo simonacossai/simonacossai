@@ -3,7 +3,7 @@
  <img align="right" alt="image" src="https://raw.githubusercontent.com/simonacossai/simonacossai/d4cd6c448bc90a6a1a88068f70f0d523110f706e/undraw_react_y7wq.svg" width="500" height="320" />
 
 
-## I'm a junior Frontend Developer and lifelong learner 💻🎈!!
+## I'm a Junior Frontend Developer and lifelong learner 💻🎈!!
 - 🔭 I’m currently working as React Developer
 - 🌱 I’m currently learning React Native 
 - 💡 I speak both English and Italian

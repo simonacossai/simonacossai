@@ -33,13 +33,8 @@
 <br />
 ---
 
-  <summary>GitHub Stats</summary>
 
   <img align="left" alt="Simona's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonacossai&show_icons=true&hide_border=true" />
-
-<br />
-
-  <summary>Most Used Languages</summary>
 
 <img align="right" alt="Simona's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonacossai" />
 

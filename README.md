@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as React Developer
 - 🌱 I’m currently learning React Native 
 - 💡 I speak both English and Italian
-- 💬 Ask me about ... Anything
+- 💬 Ask me about ... anything
 - ⚡ Fun fact: I'm a digital marketing and design lover! 
 
 

@@ -4,7 +4,7 @@
 
 
 ## I'm a Junior Frontend Developer and lifelong learner 💻🎈!!
-- 🔭 I’m working as a React Developer
+- 🔭 I’m working as a Flutter Developer
 - 🌱 I’m currently learning React Native 
 - 💡 I speak both English and Italian
 - 💬 Ask me about ... anything
